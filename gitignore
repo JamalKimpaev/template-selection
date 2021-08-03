@@ -1,0 +1,11 @@
+.pytest_cache
+app/.pytest_cache
+
+env
+/env/
+venv
+virtualenv
+
+/.idea/
+/__pycache__/
+app/__pycache__

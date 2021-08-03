@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "patient", "person_name": "text", "phone_number": "phone", "birth_date": "date", "diagnosis": "text"}, "2": {"name": "student", "person_name": "text", "birth_date": "date"}, "3": {"name": "user", "person_name": "text", "phone_number": "phone"}}}
